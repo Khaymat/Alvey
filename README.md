@@ -5,7 +5,8 @@
 
 ALVEY adalah sistem rekomendasi paper akademis *end-to-end* yang dirancang untuk membantu para peneliti dan mahasiswa menavigasi banjir informasi di repositori arXiv. Alih-alih hanya mengandalkan kata kunci, ALVEY menggunakan pemahaman semantik untuk menemukan paper yang relevan secara konseptual.
 
-![Screenshot Aplikasi ALVEY](https://khay.my.id/img/alvey.png)
+![Screenshot Aplikasi ALVEY](![Uploading image.png…]()
+)
 *(Ganti gambar di atas dengan screenshot aplikasi Anda yang sedang berjalan)*
 
 ## 🚀 Fitur Utama
