@@ -77,7 +77,7 @@ Berikut adalah langkah-langkah untuk menjalankan proyek ini di komputer lokal An
 
 ## ✒️ Penulis
 
-* **Rafi Khairan** - [LinkedIn](https://linkedin.com/in/rafikhairan) | [Portfolio](https://khay.my.id)
+* **Rafi Khairan** - [LinkedIn](https://linkedin.com/in/rafikhairan) | [Portfolio](https://khay.my.id) | [Ebook](https://lynk.id/khaymat/3qx6m661q7q4)
 
 ## 📄 Lisensi
 
