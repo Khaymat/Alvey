@@ -58,11 +58,6 @@ Berikut adalah langkah-langkah untuk menjalankan proyek ini di komputer lokal An
     pip install -r requirements.txt
     ```
 
-4.  **Unduh Data NLTK (Penting!)**
-    Jalankan skrip ini untuk memastikan semua data NLTK terunduh dengan benar di dalam folder proyek.
-    ```sh
-    python download_nltk.py
-    ```
 
 ### 3. Menjalankan Proyek
 
